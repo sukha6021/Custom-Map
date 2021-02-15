@@ -1,0 +1,36 @@
+.container {
+  margin-left: 280px;
+  width: 1020px;
+  margin-top: 0.5cm;
+}
+
+.single-map-holder {
+  border: 2px black solid;
+  width: 320px;
+  float: left;
+  margin-left: 20px;
+  height: 254px;
+  overflow: hidden;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.create-map-form {
+  margin: 100px 0 0 100px;
+}
+
+.single-map-holder img {
+  width: 300px;
+  height: 180px;
+  overflow: hidden;
+}
+
+.single-map-holder button {
+  margin-right: 5px;
+  margin-top: 2px;
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
