@@ -11,7 +11,7 @@ edit the map markers anytime after the maps have been created.
 ## Installation:
 You can install dependency by: npm install
 
-## Technolog and tools:
+## Technologies and Tools:
 * Leaflet.js --> JavaScript library for mobile-friendly interactive maps. 
 * React.js --> Front-end development
 * MongoDB --> Database Management
